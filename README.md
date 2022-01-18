@@ -1,7 +1,7 @@
 - 😁 Hello, I’m Patrik Bajzík from Slovakia!
 - 💥 I’m interested in C#, HTML, CSS & Python
 - 📚 I’m currently learning HTML & CSS
-- 📈 I’m looking to collaborate literally on everything! Just be patient please xd
+- 📈 I’m looking to collaborate literally on everything! All I need are some instructions and friendly interaction
 - 📧 How to reach me: 
     • Gmail: bajzik.patrik6@gmail.com
     • Twitter: @Patri22k
