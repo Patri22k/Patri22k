@@ -4,6 +4,5 @@
 - 📈 I’m looking to collaborate literally on everything!
 - 📧 How to reach me: 
     • Gmail: bajzik.patrik6@gmail.com
-    • Twitter: @Patri22k
     • Instagram: @patrik_bajzik
     • Linkedln: Patrik Bajzík
