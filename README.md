@@ -10,6 +10,5 @@ I hail from the beautiful country of Slovakia. Despite its political ups and dow
 
 I started my programming journey when I was just 11 years old, and since then, I've picked up a variety of languages and technologies. Here are some of them:
 
-![C#](https://cdn.worldvectorlogo.com/logos/c--4.svg) ![Python](url_to_python_logo) ![JavaScript](url_to_javascript_logo) ![HTML](url_to_html_logo) ![CSS](url_to_css_logo) ![C](url_to_c_logo) ![C++](url_to_cpp_logo) ![Node.js](url_to_nodejs_logo) ![Express](url_to_express_logo) ![React](url_to_react_logo) ![Tailwind](url_to_tailwind_logo) ![Assembly](url_to_assembly_logo)
-
-Remember to replace `url_to_language_logo` with the actual URL of the logo image you want to display.
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="25" width="25">
+ ![Python](url_to_python_logo) ![JavaScript](url_to_javascript_logo) ![HTML](url_to_html_logo) ![CSS](url_to_css_logo) ![C](url_to_c_logo) ![C++](url_to_cpp_logo) ![Node.js](url_to_nodejs_logo) ![Express](url_to_express_logo) ![React](url_to_react_logo) ![Tailwind](url_to_tailwind_logo) ![Assembly](url_to_assembly_logo)
