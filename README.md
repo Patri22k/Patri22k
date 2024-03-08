@@ -12,4 +12,9 @@ I started my programming journey when I was just 11 years old, and since then, I
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40" width="40"></a> <a href="https://docs.python.org/3/"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40" width="40"></a> <a href="https://www.javascript.com/"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="40" width="40"></a> <a href="https://en.cppreference.com/w/" ><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" height="40" width="40"></a> <a href="https://en.cppreference.com/w/"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" width="40"></a> <a href="https://react.dev/"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="40" width="40"></a> <a href="https://nodejs.org/en"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="40" width="40"></a> <a href="https://html.com/"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40" width="40"></a> <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="40" width="40"> </a> <a href="https://tailwindcss.com/"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" height="40" width="40"></a> <a href="https://vitejs.dev/"><img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" height="40" width="40"></a>
 
+# My GitHub Stats
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Patri22k&theme=radical)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Patri22k&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical)
+![](https://komarev.com/ghpvc/?username=Patri22k&color=blue&style=flat-square)
