@@ -24,11 +24,11 @@ I started my programming journey when I was just 11 years old, and since then, I
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="30%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical" align="left" style="width: 100%" />
     </td>
-    <td valign="top" width="50%">
-        <img src="https://activity-graph.herokuapp.com/graph?username=Patri22k&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" align="left" style="width: 100%" />
+    <td valign="top" width="70%">
+      <img src="https://activity-graph.herokuapp.com/graph?username=Patri22k&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" align="left" style="width: 100%" />
     </td>
   </tr>
 </table>
