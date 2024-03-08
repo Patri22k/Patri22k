@@ -16,19 +16,19 @@ I started my programming journey when I was just 11 years old, and since then, I
 
 <table>
   <tr>
-    <td valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patri22k&theme=radical" align="left" style="width: 50%" />
+    <td valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patri22k&theme=radical" align="left" style="width: 100%" />
     </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Patri22k&theme=radical" align="right" style="width: 50%" />
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Patri22k&theme=radical" align="right" style="width: 100%" />
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical" align="left" style="width: 30%" />
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical" align="left" style="width: 100%" />
     </td>
-    <td valign="top">
-      <img src="https://activity-graph.herokuapp.com/graph?username=Patri22k&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" align="left" style="width: 70%" />
+    <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Patri22k&show_icons=true&theme=radical" align="left" style="width: 100%" />
     </td>
   </tr>
 </table>
