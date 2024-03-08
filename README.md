@@ -17,4 +17,3 @@ I started my programming journey when I was just 11 years old, and since then, I
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Patri22k&theme=radical)
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Patri22k&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical)
-![](https://komarev.com/ghpvc/?username=Patri22k&color=blue&style=flat-square)
