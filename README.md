@@ -14,6 +14,22 @@ I started my programming journey when I was just 11 years old, and since then, I
 
 # My GitHub Stats
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patri22k&theme=radical" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Patri22k&theme=radical" align="right" style="width: 100%" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Patri22k&theme=radical)
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Patri22k&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical)
