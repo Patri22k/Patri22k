@@ -45,24 +45,24 @@ Started coding at age 11, and I've been on a wild ride since! Here's what I've m
 
 Feel free to reach out to me on social media or via email:
 
-<table>
+<table style="border: 0;">
   <tr>
     <td width="50"></td>
     <td>
       <div align="left">
-        <a href="https://www.instagram.com/patrik_bajzik/">
+        <a href="https://www.instagram.com/patrik_bajzik/" style="outline: none;">
             <img src="instagram_logo_pink.png" alt="Instagram" height="50">
         </a>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.linkedin.com/in/patrik-bajz%C3%ADk/">
+        <a href="https://www.linkedin.com/in/patrik-bajz%C3%ADk/" style="outline: none;">
             <img src="linkedin_logo_blue.png" alt="LinkedIn" height="50">
         </a>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.facebook.com/pato.bajzik">
+        <a href="https://www.facebook.com/pato.bajzik" style="outline: none;">
             <img src="facebook_logo_blue.png" alt="Facebook" height="50">
         </a>&nbsp;&nbsp;&nbsp;
-        <a href="mailto:bajzik.patrik6@gmail.com">
+        <a href="mailto:bajzik.patrik6@gmail.com" style="outline: none;">
             <img src="gmail.png" alt="Gmail" height="50">
         </a>
-      </div>
+    </div>
     </td>
   </tr>
 </table>
