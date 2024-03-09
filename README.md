@@ -50,7 +50,7 @@ Feel free to reach out to me on social media or via email:
   <a href="https://www.instagram.com/patrik_bajzik/" style="[outline:none]">
       <img src="instagram_logo_pink.png" alt="Instagram" height="50">
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/patrik-bajz%C3%ADk/" style="[outline:none]">
+  <a href="https://www.linkedin.com/in/patrik-bajzik/" style="[outline:none]">
       <img src="linkedin_logo_blue.png" alt="LinkedIn" height="50">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/pato.bajzik" style="[outline:none]">
