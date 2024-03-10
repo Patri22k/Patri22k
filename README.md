@@ -43,20 +43,32 @@ Started coding at age 11, and I've been on a wild ride since! Here's what I've m
 
 # Contact Me 📫
 
-Feel free to reach out to me on social media or via email:
+Feel free to reach out to me on social media or on CodePen:
 
-<div align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/patrik_bajzik/" style="[outline:none]">
-      <img src="instagram_logo_pink.png" alt="Instagram" height="50">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/patrik-bajzik/" style="[outline:none]">
-      <img src="linkedin_logo_blue.png" alt="LinkedIn" height="50">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/pato.bajzik" style="[outline:none]">
-      <img src="facebook_logo_blue.png" alt="Facebook" height="50">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:bajzik.patrik6@gmail.com" style="[outline:none]">
-      <img src="gmail.png" alt="Gmail" height="50">
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/patrik-bajzik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin: patrik-bajzik" height="50" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://fb.com/pato.bajzik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook: pato.bajzik" height="50" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/patrik_bajzik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram: patrik_bajzik" height="50" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codepen.io/patri22k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="patri22k" height="50" /></a>
+</p>
+
+# Support Me 💸
+
+If you find my work or content helpful and you'd like to support me, here are a few ways you can do that:
+
+- ☕ **Buy Me a Coffee**: If you enjoy what I do and want to help keep me fueled for late-night coding sessions, you can [buy me a coffee](https://ko-fi.com/patrik_bajzik).
+- 💉 **Donate Insulin**: If you'd like to help keep my coding sessions sweet and uninterrupted, you can contribute to my insulin supply. Every drop counts! [Donate here](https://paypal.me/patrikbajzik?country.x=SK&locale.x=sk_SK).
+- 📣 **Spread the Word**: Share my work or content with your friends, family, or on social media. Every mention helps!
+- 💻 **Contribute**: If you have suggestions, ideas, or want to collaborate on a project, feel free to reach out.
+
+Your support means a lot and helps me continue doing what I love. Thank you!
+
+<p align="center">
+  <a href="https://ko-fi.com/patrik_bajzik">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support Me on Ko-fi">
   </a>
-</div>
+</p>
