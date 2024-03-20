@@ -20,24 +20,24 @@ Started coding at age 11, and I've been on a wild ride since! Here's what I've m
   <tr>
     <td valign="top" width="50%">
       <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patri22k&theme=radical" style="width: 100%"; />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patri22k&theme=radical&count_private=true" style="width: 100%"; />
       </p>
     </td>
     <td valign="top" width="50%">
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Patri22k&show_icons=true&theme=radical" style="width: 100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Patri22k&show_icons=true&theme=radical&count_private=true" style="width: 100%" />
       </p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical" style="width: 100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical&count_private=true" style="width: 100%" />
       </p>
     </td>
     <td valign="top" width="50%">
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Patri22k&theme=radical" style="width: 100%" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Patri22k&theme=radical&count_private=true" style="width: 100%" />
       </p>
     </td>
   </tr>
