@@ -19,26 +19,26 @@ Started coding at age 11, and I've been on a wild ride since! Here's what I've m
 <table>
   <tr>
     <td valign="top" width="50%">
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patri22k&theme=radical&count_private=true" style="width: 100%"; />
-      </p>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patri22k&theme=radical&count_private=true" align="center" />
+      </a>
     </td>
     <td valign="top" width="50%">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Patri22k&show_icons=true&theme=radical&count_private=true" style="width: 100%" />
-      </p>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Patri22k&show_icons=true&theme=radical&count_private=true" align="center" />
+      </a>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical&count_private=true" style="width: 100%" />
-      </p>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical&count_private=true&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=5" align="center" />
+      </a>
     </td>
     <td valign="top" width="50%">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Patri22k&theme=radical&count_private=true" style="width: 100%" />
-      </p>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Patri22k&theme=radical&count_private=true" align="center" />
+      </a>
     </td>
   </tr>
 </table>
