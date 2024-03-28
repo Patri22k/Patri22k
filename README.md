@@ -16,32 +16,23 @@ Started coding at age 11, and I've been on a wild ride since! Here's what I've m
 
 # My GitHub Stats 📊
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patri22k&theme=radical&count_private=true" align="center" />
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Patri22k&show_icons=true&theme=radical&count_private=true" align="center" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical&count_private=true&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=5" align="center" />
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Patri22k&theme=radical&count_private=true" align="center" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patri22k&theme=radical&count_private=true" height="200px" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Patri22k&show_icons=true&theme=radical" height="200px" />
+  </a>
+</div>
+<div>
+  <a width="50%" href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Patri22k&theme=radical&hide=other" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=5" height="253px" align="top" />
+  </a>
+</div>
+
 
 # Contact Me 📫
 
