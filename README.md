@@ -17,7 +17,7 @@ Started coding at age 11, and I've been on a wild ride since! Here's what I've m
 # My GitHub Stats 📊
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Patri22k&theme=radical&count_private=true" height="200px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.vercel.app/?user=Patri22k&theme=radical&count_private=true" height="200px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=5&count_private=true" height="200px"/></a>
 </div>
 <br>
