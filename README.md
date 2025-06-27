@@ -40,7 +40,6 @@ Feel free to reach out to me on social media or on CodePen:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patrik.bajzik/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/pato.bajzik)
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/patri22k)
-
 # Support Me 💸
 
 If you find my work or content helpful, and you'd like to support me, here are a few ways you can do that:
@@ -59,9 +58,7 @@ Your support means a lot and helps me continue doing what I love. Thank you!
 <p align="center">
   <a href="https://ko-fi.com/patrik_bajzik">
     <img 
-      src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
-      height="50" 
-      width="210"
+      src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FF5E99?style=for-the-badge&logo=kofi&logoColor=white"
       alt="Support Me on Ko-fi"
     /> 
   </a>
