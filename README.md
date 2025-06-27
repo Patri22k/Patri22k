@@ -218,7 +218,7 @@ Here's what I've mastered and explored along the way:
 Feel free to reach out to me on social media or on CodePen:
 
 <p align="left">
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/patrik-bajzik" target="blank">
     <img 
@@ -228,33 +228,27 @@ Feel free to reach out to me on social media or on CodePen:
       height="50" 
     />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
   <!-- Facebook -->
   <a href="https://fb.com/pato.bajzik" target="blank">
     <img 
       align="center" 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
       alt="facebook: pato.bajzik" 
-      height="50" 
+      height="50"
     />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
   <!-- Instagram -->
   <a href="https://www.instagram.com/patrik.bajzik/" target="blank">
     <img 
       align="center" 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
       alt="instagram: patrik_bajzik" 
-      height="50" 
+      height="50"
     />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
   <!-- CodePen -->
   <a href="https://codepen.io/patri22k" target="blank">
     <img 
@@ -283,6 +277,11 @@ Your support means a lot and helps me continue doing what I love. Thank you!
 
 <p align="center">
   <a href="https://ko-fi.com/patrik_bajzik">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support Me on Ko-fi">
+    <img 
+      src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
+      height="50" 
+      width="210"
+      alt="Support Me on Ko-fi"
+    /> 
   </a>
 </p>
