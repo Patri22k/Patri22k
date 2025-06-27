@@ -14,233 +14,32 @@ downs. Home is where the heart is, right? ❤️ Let's keep the positivity flowi
 # Skills 💡
 
 Started coding at age 11, and I've been on a wild ride since! 
-Here's what I've mastered and explored along the way:
+Here are some of the most preferred technologies I work with:
 
-<p align="left">
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
-      alt="c" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-      alt="cplusplus" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-  <!-- C# -->
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
-      alt="csharp" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-      alt="css3" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
-      alt="docker" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-      alt="git" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-  <!-- HTML -->
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-      alt="html5" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-      alt="javascript" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-      alt="linux" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-      alt="mysql" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
-      alt="nodejs" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-  <!-- Postman -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img 
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-      alt="postman" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-      alt="python" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
-      alt="react" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-  <!-- Redis -->
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" 
-      alt="redis" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
-      alt="tailwind" 
-      width="50" 
-      height="50" 
-    />
-  </a>
-</p>
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 
 # My GitHub Stats 📊
 
-<div>
-  <!-- Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=5&count_private=true" 
-      height="195px"
-      alt="top-languages" 
-    />
-  </a>
-  <!-- GitHub Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Patri22k&show_icons=true&theme=radical&count_private=true" 
-      align="top"
-      alt="github-stats"
-    />
-  </a>
-</div>
-<br />
-<div>
-  <!-- Wakatime Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Patri22k&theme=radical&hide=other" 
-      width="367px"
-      alt="wakatime-stats"
-    />
-  </a>
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patri22k&theme=radical&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patri22k&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Patri22k&theme=radical&hide=other)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact Me 📫
 
 Feel free to reach out to me on social media or on CodePen:
 
-<p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/patrik-bajzik" target="blank">
-    <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="linkedin: patrik-bajzik" 
-      height="50" 
-    />
-  </a>
-&nbsp;&nbsp;&nbsp;
-  <!-- Facebook -->
-  <a href="https://fb.com/pato.bajzik" target="blank">
-    <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-      alt="facebook: pato.bajzik" 
-      height="50"
-    />
-  </a>
-&nbsp;&nbsp;&nbsp;
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/patrik.bajzik/" target="blank">
-    <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-      alt="instagram: patrik_bajzik" 
-      height="50"
-    />
-  </a>
-&nbsp;&nbsp;&nbsp;
-  <!-- CodePen -->
-  <a href="https://codepen.io/patri22k" target="blank">
-    <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" 
-      alt="patri22k" 
-      height="50" 
-    />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patrik-bajzik)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patrik.bajzik/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/pato.bajzik)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/patri22k)
 
 # Support Me 💸
 
