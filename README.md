@@ -26,7 +26,6 @@ Here's what I've mastered and explored along the way:
       height="50" 
     />
   </a>
-
   <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img 
@@ -36,7 +35,6 @@ Here's what I've mastered and explored along the way:
       height="50" 
     />
   </a>
-
   <!-- C# -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img 
@@ -46,7 +44,6 @@ Here's what I've mastered and explored along the way:
       height="50" 
     />
   </a>
-
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img 
@@ -56,7 +53,6 @@ Here's what I've mastered and explored along the way:
       height="50" 
     />
   </a>
-
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img 
@@ -66,7 +62,6 @@ Here's what I've mastered and explored along the way:
       height="50" 
     />
   </a>
-
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img 
@@ -76,7 +71,6 @@ Here's what I've mastered and explored along the way:
       height="50" 
     />
   </a>
-
   <!-- HTML -->
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
     <img 
@@ -86,7 +80,6 @@ Here's what I've mastered and explored along the way:
       height="50" 
     />
   </a>
-
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img 
@@ -96,7 +89,6 @@ Here's what I've mastered and explored along the way:
       height="50" 
     />
   </a>
-
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img 
@@ -106,7 +98,6 @@ Here's what I've mastered and explored along the way:
       height="50" 
     />
   </a>
-
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img 
@@ -116,7 +107,6 @@ Here's what I've mastered and explored along the way:
       height="50" 
     />
   </a>
-
   <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img 
@@ -126,7 +116,6 @@ Here's what I've mastered and explored along the way:
       height="50" 
     />
   </a>
-
   <!-- Postman -->
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img 
@@ -136,7 +125,6 @@ Here's what I've mastered and explored along the way:
       height="50" 
     />
   </a>
-
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img 
@@ -146,7 +134,6 @@ Here's what I've mastered and explored along the way:
       height="50" 
     />
   </a>
-
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img 
@@ -156,7 +143,6 @@ Here's what I've mastered and explored along the way:
       height="50" 
     />
   </a>
-
   <!-- Redis -->
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img 
@@ -166,7 +152,6 @@ Here's what I've mastered and explored along the way:
       height="50" 
     />
   </a>
-
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img 
@@ -189,7 +174,6 @@ Here's what I've mastered and explored along the way:
       alt="top-languages" 
     />
   </a>
-
   <!-- GitHub Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
@@ -199,9 +183,7 @@ Here's what I've mastered and explored along the way:
     />
   </a>
 </div>
-
 <br />
-
 <div>
   <!-- Wakatime Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
